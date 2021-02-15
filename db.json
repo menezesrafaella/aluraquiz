@@ -1,28 +1,29 @@
 {
     "bg": "https://wallpapercave.com/wp/wp3092009.jpg",
     "title": "Quiz The Last Of Us",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "description": "Teste os seus conhecimentos sobre o jogo The Last of Us. ",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://thumbs.gfycat.com/CarelessMinorFoxterrier-max-1mb.gif",
+        "title": "Qual é o nome da personagem principal?",
         "description": "Essa é pra aquecer",
-        "answer": 2,
+        "answer": 1,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Elfie",
+          "Ellie",
+          "Ellen",
+          "Elsa"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://media1.giphy.com/media/dycogNFc1kMLnOmtkc/giphy.gif",
+        "title": "Qual é o nome desse infectado?",
+        "description": "Esse era dificil de matar hein",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+          "Estaladores",
+           "Corredores",
+           "Perseguidores"
         ]
       }
     ],
@@ -33,7 +34,7 @@
       "colors": {
         "primary": "#b26500",
         "secondary": "#29b6f6",
-        "mainBg": "#FFFFFF",
+        "mainBg": "#E67E22",
         "contrastText": "#FFFFFF",
         "wrong": "#FF5722",
         "success": "#4CAF50"
